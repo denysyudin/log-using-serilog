@@ -1,0 +1,4 @@
+2024-10-10 00:21:35.592 +03:00 [INF] Application Starting
+2024-10-10 00:21:35.638 +03:00 [DBG] This is a debug message.
+2024-10-10 00:21:35.639 +03:00 [WRN] This is a warning message.
+2024-10-10 00:21:35.639 +03:00 [FTL] This is a critical message.
